@@ -12,7 +12,7 @@ API Rest PHP - MySQL - SQL Server - Login por JWT
 
 Uso de middleware redux-tunk para operaciones asíncronas y configuración de redux-devtools-extension para depuración y control de cambios de estado redux
 
-![redux-tunk y redux-devtools-extension](https://bimagine.com.ar/cv/tid/2.png)
+![redux-tunk y redux-devtools-extension](http://167.250.5.42/~alez/cv/tid/2.png)
 
 
 ## combineReducers
