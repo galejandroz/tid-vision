@@ -19,48 +19,48 @@ Uso de middleware redux-tunk para operaciones asíncronas y configuración de re
 
 Uso de combineReducers para mejorar la legibilidad del código y ordenar los estados
 
-![combineReducers](https://bimagine.com.ar/cv/tid/1.png)
+![combineReducers](http://167.250.5.42/~alez/cv/tid/1.png)
 
 ## useReducer . useCallback . createContext
 
 Algunos hooks. En componente de "preguntas contextuales" no fue necesario Redux, en su lugar fue más práctico y eficiente el uso de Context con useReducer.
 
-![context here](https://bimagine.com.ar/cv/tid/4.png)
+![context here](http://167.250.5.42/~alez/cv/tid/4.png)
 
 useCallback para obtener una función, solo al cambiar dependencias durante renderizaciones.
 En página de contenido fue mas ordenado useReducer que los states
 
-![useReducer . useCallback](https://bimagine.com.ar/cv/tid/3.png)
+![useReducer . useCallback](http://167.250.5.42/~alez/cv/tid/3.png)
 
 ## Hooks personalizados
 
 Para utilidad de resumen y anotaciones se desarrolló con custom hooks y librería externa javascript.
 
-![custom hooks](https://bimagine.com.ar/cv/tid/44.png)
+![custom hooks](http://167.250.5.42/~alez/cv/tid/44.png)
 
 ## Notificaciones push
 
 Fragmento de código del redux actions para notificaciones push usando API de Pushwoosh.
 
-![push](https://bimagine.com.ar/cv/tid/55.png)
+![push](http://167.250.5.42/~alez/tid/55.png)
 
 
 ## REDUX DEVTOOLS EXTENSION
 
 Herramienta de depuración y control de estados para Redux
 
-![DevTools](https://bimagine.com.ar/cv/tid/9.png)
+![DevTools](http://167.250.5.42/~alez/tid/9.png)
 
 
 # Algunas pantallas
 
-![Login](https://bimagine.com.ar/cv/tid/10.png)
+![Login](http://167.250.5.42/~alez/cv/tid/10.png)
 
-![Home](https://bimagine.com.ar/cv/tid/11.png)
+![Home](http://167.250.5.42/~alez/cv/tid/11.png)
 
-![Menu Materia](https://bimagine.com.ar/cv/tid/6.png)
+![Menu Materia](http://167.250.5.42/~alez/cv/tid/6.png)
 
-![Herramienta de materia](https://bimagine.com.ar/cv/tid/5.png)
+![Herramienta de materia](http://167.250.5.42/~alez/cv/tid/5.png)
 
-![Logout](https://bimagine.com.ar/cv/tid/8.png)
+![Logout](http://167.250.5.42/~alez/cv/tid/8.png)
 
