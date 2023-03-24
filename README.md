@@ -42,14 +42,14 @@ Para utilidad de resumen y anotaciones se desarrolló con custom hooks y librer�
 
 Fragmento de código del redux actions para notificaciones push usando API de Pushwoosh.
 
-![push](http://167.250.5.42/~alez/tid/55.png)
+![push](http://167.250.5.42/~alez/cv/tid/55.png)
 
 
 ## REDUX DEVTOOLS EXTENSION
 
 Herramienta de depuración y control de estados para Redux
 
-![DevTools](http://167.250.5.42/~alez/tid/9.png)
+![DevTools](http://167.250.5.42/~alez/cv/tid/9.png)
 
 
 # Algunas pantallas
